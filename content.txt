@@ -6,3 +6,8 @@ The fruit has distinctive ridges running down its sides (usually five but can so
 
 Persimmon
 The non-astringent persimmon is squat like a tomato and is most commonly sold as <i>fuyu</i>. The ripe fruit of the cultivated strains range from glossy light yellow-orange to dark red-orange depending on the species and variety.
+
+font-family: 'Gravitas One', cursive;
+font-family: 'Rammetto One', cursive;
+font-family: 'Comfortaa', cursive;
+font-family: 'Open Sans', sans-serif;
