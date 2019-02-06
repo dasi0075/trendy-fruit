@@ -12,14 +12,33 @@ html {
   -webkit-text-size-adjust: 100%;
   text-size-adjust: 100%;
 
-  font-family: "PT Sans", sans-serif;
+  font-family: 'Open Sans', sans-serif;
 }
 
 *, *::before, *::after {
   box-sizing: inherit;
 }
 
-.img-flex {
-  display: block;
-  width: 100%;
+.banner-1 {
+ background-color: #e97065;
+}
+
+.title-1 {
+  font-family: 'Rammetto One', cursive;
+}
+
+.banner-2 {
+   background-color: #fbd25e;
+}
+
+.title-2 {
+  font-family: 'Gravitas One', cursive;
+}
+
+.banner-3 {
+   background-color: #e86033;
+}
+
+.title-3 {
+  font-family: 'Comfortaa', cursive;
 }
