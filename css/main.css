@@ -25,6 +25,10 @@ body {
   margin-bottom: .7rem;
 }
 
+p {
+  margin: 0;
+}
+
 .article-1 {
   background-color: #e97065;
 }
