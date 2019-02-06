@@ -21,9 +21,11 @@ html {
 
 body {
   margin: 0;
+  margin-top: .7rem;
+  margin-bottom: .7rem;
 }
 
-.banner-1 {
+.article-1 {
   background-color: #e97065;
 }
 
@@ -31,7 +33,7 @@ body {
   font-family: "Rammetto One", cursive;
 }
 
-.banner-2 {
+.article-2 {
   background-color: #fbd25e;
 }
 
@@ -39,7 +41,7 @@ body {
   font-family: "Gravitas One", cursive;
 }
 
-.banner-3 {
+.article-3 {
   background-color: #e86033;
 }
 
